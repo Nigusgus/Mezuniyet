@@ -50,8 +50,6 @@ Botu kendi sunucunuza kurmak için aşağıdaki adımları takip edin:
 * `!kurulum` komutunu kullanarak butonun yer alacağı ana mesajı oluşturabilirsiniz.
 * Ders programı güncellemeleri için `config.json` dosyasını düzenleyebilirsiniz.
 
-## 🎨 Önizleme
-*(Buraya botun çalıştığına dair bir ekran görüntüsü eklemek harika olur!)*
 
 ---
 *Bu proje KODLAND Python Kursu Mezuniyet Projesi kapsamında geliştirilmiştir.*
